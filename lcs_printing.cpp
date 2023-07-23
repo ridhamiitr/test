@@ -39,6 +39,7 @@ string print_lcs(string x, string y, int m, int n){
         }
     }
     return lcs;
+    //hello
 }    
 int main(){
     string x,y;
